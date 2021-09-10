@@ -5,7 +5,7 @@
 -->
 #### My name is 
 ## Ajah Ogonnaya Benjamin. 
-#### I'm a Sowtware Engineer at Silicon Africa
+#### I'm a Software Engineer at Silicon Africa
 - 🔭 I’m currently working on all things Web Dev
 - 🌱 I’m currently learning Andriod app Dev and Mastering React.js
 - 👯 I’m looking to collaborate on Android  and Website  projects
